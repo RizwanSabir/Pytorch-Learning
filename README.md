@@ -12,18 +12,7 @@ This repository contains PyTorch implementations for various neural network mode
 - CNN architecture for more complex tasks
 - Easy-to-follow structure for training and evaluation
 
-## 📂 Repository Structure
 
-```
-📦 pytorch-implementation
-├── 📄 linear_binary.py      # Binary classification using a linear model
-├── 📄 linear_multiclass.py  # Multi-class classification using a linear model
-├── 📄 cnn_network.py        # Convolutional Neural Network implementation
-├── 📄 dataset.py           # Dataset processing and loading
-├── 📄 train.py             # Training script for models
-├── 📄 utils.py             # Helper functions
-└── 📄 README.md            # This documentation file
-```
 
 ## 🚀 Getting Started
 
